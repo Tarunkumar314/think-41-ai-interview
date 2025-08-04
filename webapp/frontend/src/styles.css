@@ -1,0 +1,25 @@
+.customer-container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  margin: 15px 0;
+  width: 300px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #f4f4f4;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
